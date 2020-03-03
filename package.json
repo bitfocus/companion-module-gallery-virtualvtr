@@ -1,6 +1,6 @@
 {
-	"name": "virtual-vtr",
-	"version": "1.0.0",
+	"name": "gallery-virtualvtrpro",
+	"version": "1.0.1",
 	"api_version": "1.0.0",
 	"keywords": [
 		"VTR"
@@ -13,7 +13,7 @@
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
-	
+
 	"author": "Jonathan Bond",
 	"license": "MIT"
 }
