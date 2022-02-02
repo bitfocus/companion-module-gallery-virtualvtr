@@ -268,7 +268,7 @@ instance.prototype.init_presets = function () {
 instance.prototype.actions = function(system) {
 	var self = this;
 
-	self.system.emit('instance_actions', self.id, {
+	self.setActions({
 		'stop':     { label: 'Stop' },
 		'play':     { label: 'Play' },
 		'rewind':    { label: 'Rewind' },
